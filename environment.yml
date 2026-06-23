@@ -1,0 +1,19 @@
+name: nsdf-scivis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - mystmd
+  - jupyterlab-myst
+  - pip
+  - matplotlib
+  - bokeh
+  - panel
+  - xmltodict
+  - colorcet
+  - boto3
+  - basemap
+  - pip:
+      - OpenVisus
+      - openvisuspy
