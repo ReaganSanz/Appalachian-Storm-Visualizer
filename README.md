@@ -4,7 +4,7 @@ Title: Wind Velocity and the impact of TN/NC Geography on Severe Weather
 This Program creates a visualization of wind speeds and directions in the TN/NC area for use in analyzing the impact of the geography on severe weather events. It allows users to select specific start/end dates and wind directions, it then uses the DYAMOND 3 dataset to show a visualization of this region and save the results as an MP4 file. 
 ## Installation Instructions ##
 - This code can be ran through Jupyter Notebooks.
-- It requires: Python 3 (ipykernel), cartopy, OpenVisus, mpl_toolkits, MatPlotLib, and the 2025-Feb 2026 DYAMOND 3 dataset. 
+- It requires: Python 3 (ipykernel), cartopy, OpenVisus, mpl_toolkits, MatPlotLib, and the 2026 DYAMOND 3 dataset. 
 - To Run: Press "play" at the top of each section. Requires Jupyter Notebooks (installed on PC, ran through Google Collab, etc). At the bottom of each section the output will be displayed.
 ### Requirements are as follows (already included in notebook code): ###
 ```
@@ -50,8 +50,8 @@ For converting Multiple img files to a video file
 https://www.kaggle.com/discussions/general/491147
 
 ### ipywidgets ###
-For creating a slider to view data
+For creating a slider to view data (UNFINISHED)
 https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
 
 ### Others ###
-For FINALLT figuring out how the Faces align/work: https://gmao.gsfc.nasa.gov/gmao-products/merra-2/images_merra-2/
+For FINALLY figuring out how the Faces align/work: https://gmao.gsfc.nasa.gov/gmao-products/merra-2/images_merra-2/
