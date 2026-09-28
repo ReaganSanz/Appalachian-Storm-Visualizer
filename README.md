@@ -23,8 +23,7 @@ This Program creates a visualization of wind speeds and directions in the TN/NC 
 - Screenshot showing the impact of the Appalachian Mountains on Vertical wind velocies.
 ![w_smoky_mountains](./examples/rising_air_mountains.png)
 - Mean Wind Velocities Graph for October (Hurricane Season) for the TN valley vs. the Smoky Mountains.
-  
-![mean_vel](./examples/vel_graph.png)
+  ![mean_vel](./examples/vel_graph.png)
 
 ## Contact Information ##
 Email: rsanz@vols.utk.edu GitHub: ReaganSanz
